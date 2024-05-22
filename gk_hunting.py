@@ -2,9 +2,6 @@
 import streamlit as st
 import time
 import pandas as pd
-import os
-from tqdm.notebook import tqdm
-
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
